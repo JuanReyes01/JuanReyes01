@@ -1,9 +1,10 @@
-#About Me:
+# About Me:
 Hi I'm Juan Camilo
 
 - 📚 Currently Studying Electronics and Systems Engineering
 - 🌱 I’m currently learning React, Go and AI
-- 💻 Reach me at: [<img src="https://img.shields.io/badge/Email-juancreyes201%40gmail.com-orange">](mailto:juancreyes201@gmail.com)
+- 💻 Feel free to contact me: 
+  [<img src="https://img.shields.io/badge/Email-juancreyes201%40gmail.com-orange">](mailto:juancreyes201@gmail.com)
 
 ## :page_with_curl: Skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -17,5 +18,5 @@ Hi I'm Juan Camilo
 
 ## :page_with_curl: Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nklopstock611&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nklopstock611&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanReyes01&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanReyes01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
