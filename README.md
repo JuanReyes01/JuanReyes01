@@ -3,7 +3,7 @@ Hi I'm Juan Camilo
 
 - 📚 Currently Studying Electronics and Systems Engineering
 - 🌱 I’m currently learning Svelte, ROS
-- ⚡ Computer Science IEEE chapter member 
+- ⚡ Computer Society IEEE chapter member 
 - 💻 Feel free to contact me: <br><br>
   [<img src="https://img.shields.io/badge/Email-juancreyes201%40gmail.com-orange">](mailto:juancreyes201@gmail.com)
 
